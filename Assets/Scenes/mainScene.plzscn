@@ -1,0 +1,491 @@
+{
+    "value0": {
+        "mAssetUuid": 13775789620893817673,
+        "mAssetName": "mainScene.plzscn",
+        "mainSceneEntityUuid": 11043633084278499567,
+        "entities": [
+            {
+                "key": 11043633084278499567,
+                "value": {
+                    "uuid": 11043633084278499567,
+                    "parentUuid": 14829735431805717965,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [
+                        1482111324273362993,
+                        3148692588001322275,
+                        8748875794851730308,
+                        18184845949654937036,
+                        9881778917235997314
+                    ],
+                    "name": "Scene"
+                }
+            },
+            {
+                "key": 9881778917235997314,
+                "value": {
+                    "uuid": 9881778917235997314,
+                    "parentUuid": 11043633084278499567,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "Cube"
+                }
+            },
+            {
+                "key": 3581227781260184355,
+                "value": {
+                    "uuid": 3581227781260184355,
+                    "parentUuid": 8748875794851730308,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "CameraEntity"
+                }
+            },
+            {
+                "key": 8748875794851730308,
+                "value": {
+                    "uuid": 8748875794851730308,
+                    "parentUuid": 11043633084278499567,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [
+                        3581227781260184355
+                    ],
+                    "name": "Body"
+                }
+            },
+            {
+                "key": 1482111324273362993,
+                "value": {
+                    "uuid": 1482111324273362993,
+                    "parentUuid": 11043633084278499567,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "Cube"
+                }
+            },
+            {
+                "key": 3148692588001322275,
+                "value": {
+                    "uuid": 3148692588001322275,
+                    "parentUuid": 11043633084278499567,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "Cube"
+                }
+            },
+            {
+                "key": 18184845949654937036,
+                "value": {
+                    "uuid": 18184845949654937036,
+                    "parentUuid": 11043633084278499567,
+                    "prefabUuid": 14829735431805717965,
+                    "equivalentPrefabUuid": 14829735431805717965,
+                    "childrenUuid": [],
+                    "name": "RoadPreview"
+                }
+            }
+        ],
+        "transformComponents": [
+            {
+                "key": 3148692588001322275,
+                "value": {
+                    "value0": {
+                        "mUuid": 3148692588001322275,
+                        "mEnabled": true
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": -72.02764129638672
+                    },
+                    "rotation": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1.0,
+                        "value1": 1.0,
+                        "value2": 1.0
+                    }
+                }
+            },
+            {
+                "key": 1482111324273362993,
+                "value": {
+                    "value0": {
+                        "mUuid": 1482111324273362993,
+                        "mEnabled": true
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": -1.953125,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1255.0,
+                        "value1": 1.0,
+                        "value2": 1255.0
+                    }
+                }
+            },
+            {
+                "key": 8748875794851730308,
+                "value": {
+                    "value0": {
+                        "mUuid": 8748875794851730308,
+                        "mEnabled": true
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 128.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1.0,
+                        "value1": 1.0,
+                        "value2": 1.0
+                    }
+                }
+            },
+            {
+                "key": 9881778917235997314,
+                "value": {
+                    "value0": {
+                        "mUuid": 9881778917235997314,
+                        "mEnabled": true
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": -1.953125,
+                        "value2": 694.5467529296875
+                    },
+                    "rotation": {
+                        "value0": 0.7071067690849304,
+                        "value1": 0.7071067690849304,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1255.0,
+                        "value1": 5.0,
+                        "value2": 1255.0
+                    }
+                }
+            },
+            {
+                "key": 11043633084278499567,
+                "value": {
+                    "value0": {
+                        "mUuid": 11043633084278499567,
+                        "mEnabled": true
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1.0,
+                        "value1": 1.0,
+                        "value2": 1.0
+                    }
+                }
+            },
+            {
+                "key": 3581227781260184355,
+                "value": {
+                    "value0": {
+                        "mUuid": 3581227781260184355,
+                        "mEnabled": true
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 1.0,
+                        "value1": 1.0,
+                        "value2": 1.0
+                    }
+                }
+            },
+            {
+                "key": 18184845949654937036,
+                "value": {
+                    "value0": {
+                        "mUuid": 18184845949654937036,
+                        "mEnabled": true
+                    },
+                    "relativePosition": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "rotation": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 0.0
+                    },
+                    "scale": {
+                        "value0": 25.0,
+                        "value1": 25.0,
+                        "value2": 25.0
+                    }
+                }
+            }
+        ],
+        "cameraComponents": [
+            {
+                "key": 3581227781260184355,
+                "value": {
+                    "value0": {
+                        "mUuid": 3581227781260184355,
+                        "mEnabled": true
+                    },
+                    "isEditorCamera": false,
+                    "Position": {
+                        "value0": 0.0,
+                        "value1": 128.0,
+                        "value2": 0.0
+                    },
+                    "Front": {
+                        "value0": 0.0,
+                        "value1": 0.0,
+                        "value2": 1.0
+                    },
+                    "Up": {
+                        "value0": 0.0,
+                        "value1": 1.0,
+                        "value2": 0.0
+                    },
+                    "Right": {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0
+                    },
+                    "WorldUp": {
+                        "value0": 0.0,
+                        "value1": 1.0,
+                        "value2": 0.0
+                    },
+                    "Yaw": -90.0,
+                    "Pitch": 0.0,
+                    "MovementSpeed": 2.5,
+                    "MovementSpeedTemporaryBoost": -431602080.0,
+                    "MouseSensitivity": 0.10000000149011612,
+                    "Zoom": 60.0,
+                    "nearPlane": 0.009999999776482582,
+                    "farPlane": 15000.0,
+                    "aspectRatio": 1.0
+                }
+            }
+        ],
+        "meshRendererComponents": [
+            {
+                "key": 3581227781260184355,
+                "value": {
+                    "value0": {
+                        "mUuid": 3581227781260184355,
+                        "mEnabled": true
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 2,
+                    "mMaterialsUuids": [
+                        0
+                    ]
+                }
+            },
+            {
+                "key": 8748875794851730308,
+                "value": {
+                    "value0": {
+                        "mUuid": 8748875794851730308,
+                        "mEnabled": true
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 1,
+                    "mMaterialsUuids": [
+                        0
+                    ]
+                }
+            },
+            {
+                "key": 1482111324273362993,
+                "value": {
+                    "value0": {
+                        "mUuid": 1482111324273362993,
+                        "mEnabled": true
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 1,
+                    "mMaterialsUuids": [
+                        12692741793961712871
+                    ]
+                }
+            },
+            {
+                "key": 3148692588001322275,
+                "value": {
+                    "value0": {
+                        "mUuid": 3148692588001322275,
+                        "mEnabled": true
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 1,
+                    "mMaterialsUuids": [
+                        0
+                    ]
+                }
+            },
+            {
+                "key": 18184845949654937036,
+                "value": {
+                    "value0": {
+                        "mUuid": 18184845949654937036,
+                        "mEnabled": true
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 2,
+                    "mMaterialsUuids": [
+                        0
+                    ]
+                }
+            },
+            {
+                "key": 9881778917235997314,
+                "value": {
+                    "value0": {
+                        "mUuid": 9881778917235997314,
+                        "mEnabled": true
+                    },
+                    "castShadows": true,
+                    "mMeshUuid": 1,
+                    "mMaterialsUuids": [
+                        12692741793961712871
+                    ]
+                }
+            }
+        ],
+        "rigidBodyComponents": [],
+        "colliderComponents": [
+            {
+                "key": 1482111324273362993,
+                "value": {
+                    "value0": {
+                        "mUuid": 1482111324273362993,
+                        "mEnabled": true
+                    },
+                    "value1": false,
+                    "value2": [
+                        {
+                            "ptr_wrapper": {
+                                "id": 2147483649,
+                                "data": {
+                                    "mEnum": 0,
+                                    "mMeshUuid": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "key": 3148692588001322275,
+                "value": {
+                    "value0": {
+                        "mUuid": 3148692588001322275,
+                        "mEnabled": true
+                    },
+                    "value1": false,
+                    "value2": [
+                        {
+                            "ptr_wrapper": {
+                                "id": 2147483650,
+                                "data": {
+                                    "mEnum": 0,
+                                    "mMeshUuid": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "key": 9881778917235997314,
+                "value": {
+                    "value0": {
+                        "mUuid": 9881778917235997314,
+                        "mEnabled": true
+                    },
+                    "value1": false,
+                    "value2": [
+                        {
+                            "ptr_wrapper": {
+                                "id": 2147483651,
+                                "data": {
+                                    "mEnum": 0,
+                                    "mMeshUuid": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "csScriptComponents": [],
+        "UITextRendererComponents": [],
+        "audioSourceComponents": [],
+        "audioListenerComponents": [],
+        "lightComponents": [],
+        "characterControllerComponents": [],
+        "animationComponentComponents": [],
+        "guiComponents": [],
+        "cppScriptComponents": [
+            {
+                "key": 8748875794851730308,
+                "value": {
+                    "value0": {
+                        "mUuid": 8748875794851730308,
+                        "mEnabled": true
+                    },
+                    "mScriptsUuid": [
+                        12050543655598369025
+                    ]
+                }
+            }
+        ]
+    }
+}
